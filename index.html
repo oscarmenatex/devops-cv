@@ -19,7 +19,6 @@ layout: default
   {% include publications.html %}
 {% endcomment %}
 
-{% comment %}
+{% unless site.data.data.sidebar.skills %}
   {% include skills.html %}
-{% endcomment %}
-
+{% endunless %}

@@ -20,10 +20,12 @@
   {% include contact.html %}
 
   {% if sidebar.education %}
-    {% include education.html %}
+    {% include education.html %} 
   {% endif %}
-  
-  {% include skills.html %}
+  {% if sidebar.skills %}
+     {% include skills.html %}
+  {% endif %}
+
   {% include certifications.html %}
   {% include language.html %}
   {% include interests.html %}

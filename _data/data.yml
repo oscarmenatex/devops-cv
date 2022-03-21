@@ -4,8 +4,8 @@
 
 sidebar:
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False  # set to False if you want education in main section instead of in sidebar
-  skills: True
+  education: True  # set to False if you want education in main section instead of in sidebar
+  skills: False
 
   # Profile information
   name: Oscar Carmenate Rodríguez
@@ -29,29 +29,6 @@ sidebar:
   codewars: #
   goodreads: # Number-Username, e.g. 123456-alandoe
   pdf: # http://www.africau.edu/images/default/sample.pdf
-
-  # to do pasar las skills a el side bar
-  skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Linux
-        level: 60%
-
-      - name: Bash
-        level: 45%
-
-      - name: SVN
-        level: 40%
-
-      - name: Docker
-        level: 35%
-
-      - name: GitLab
-        level: 35%
-
-      - name: Git
-        level: 25%
 
   certifications:
     - name: Linux Essentials
@@ -134,6 +111,28 @@ education:
 #        pretium quis, sem.
 #          - Bullet point
 #          - Bullet point
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Linux
+      level: 60%
+
+    - name: Bash
+      level: 45%
+
+    - name: SVN
+      level: 40%
+
+    - name: Docker
+      level: 35%
+
+    - name: GitLab
+      level: 35%
+
+    - name: Git
+      level: 25%
 
 projects:
     title: Projects
