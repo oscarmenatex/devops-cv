@@ -8,67 +8,58 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Oscar Carmenate Rodriguez
+    tagline: Junior DevOps / System Administador / Configuration Managment
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: oscarmenatex@gmail.com
+    phone: +1 727 325 3450
+#    timezone: America/Cancun Timezone
+    ubication: Florida, USA
+    citizenship: Cuban
+    website: oscarmenatex.github.io/devops-cv #do not add http://
+    linkedin: oscar-carmenate-rodríguez-385597187
+    xing: #alandoe
+    github: oscarmenatex
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Research new trends in automation and DevOps technologies.
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Participate in events and conferences related to systems management and continuous delivery.
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Passionate about automation, infrastructure as code, and continuous software delivery. Experience in areas of Linux/Unix Administration, Software Configuration Management (SCM), Version Control and Virtualization Environment, with around 1 years of experience in CI/CD (Continuous Integration / Continuous Deployment) process. Ability to manage configurations, implement technological solutions and collaborate in multidisciplinary environments. Demonstrated ability to quickly learn and adapt to the latest technologies. I seek to contribute to the team by providing innovative solutions and optimizing operational efficiency. 
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Computer Science Engineer
+        university: Universidad de las Ciencias Informáticas. La Habana - Cuba
+        time: 2009 - 2016
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +68,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Middle Technician in Computer Science
+        university: Instituto Politécnico de Informáticas - Mariana Grajales Cuello. Santiago de Cuba - Cuba.
+        time: 2005 - 2008
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,53 +83,46 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Junior DevOps Engineer
+        time: 2021 - 2022
+        company: UCI, La Habana, Cuba
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          UCI is an University and a software company, that develops digital governance software for the government, ministries, large medium and small companies.
+          - Developed and maintained CI/CD pipelines for code deployment using GitLab, gitlab-runner. Developed build and deployment processes for Testing, Pre-production and Production environments.
+          - Build and deployed Docker containers for implementing Microservice Architecture from Monolithic Architectur.
+          - Installed and configured Portainer to manage Docker containers.
+          - Installed, configured and managed Gitlab Server.
+          - Managed and designed Branch Strategies.
+          - Communication: Ability to explain technical concepts clearly and effectively to both technical and non-technical colleagues.
+      - role: System Administration
+        time: 2017 - 2021
+        company: UCI, La Habana, Cuba
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         UCI is and University and a Cuban software company, that develops digital governance software for the government, ministries, large medium and small companies.
+          - Experienced in Installing, Upgrading, Configuring and Administering Linux (Ubuntu, Debian).
+          - Installed and configured Nagios to constantly monitor network bandwidth, memory usage, and hard drive status.
+          - Managed and used Subversion as source code repositories.
+          - Managed and designed Branch Strategies.
+          - Installed and configured Virtual Machine on VMware, VirtualBox, Proxmox.
+          - Developed Shell Scripts for automation purpose.
+          - Installed and configured Apache and NGINX services.
+          - Maintained and coordinated environment configuration, controls, code integrity, and code conflict resolution.
+          - Deployed PHP applications in Linux servers.
+          - Installed, configured and managed Ldap Services for all applications of team. Executed user administration tasks including creating users and groups.
+          - Experienced using and creating vpn, and ssh pipes.
+          - Problem Solving: Ability to analyze and solve complex technical problems efficiently and creatively.
+          - Teamwork: Collaborated with interdisciplinary teams to implement infrastructure solutions and solve technical problems.
+
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Linux Essentials
           start: 2020
           end: 2021
           organization: Microsoft
           credentialid: 111-222
-          credentialurl: www.google.com
+          credentialurl: lpi.org/v/LPI000508708/x5u744rc7
           credentialname: Google
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
@@ -154,23 +138,7 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+            
 projects:
     title: Projects
     intro: >
@@ -243,23 +211,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Linux
         level: 60%
+
+      - name: Bash
+        level: 45%
+
+      - name: SVN
+        level: 40%
+
+      - name: Docker
+        level: 35%
+
+      - name: GitLab
+        level: 35%
+
+      - name: Git
+        level: 25%
+        
+      - name: Prometheus
+        level: 15%
+        
+      - name: Grafana
+        level: 15%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

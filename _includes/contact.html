@@ -12,6 +12,12 @@
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.ubication %}
+    <li class="phone"><i class="fas fa-map-marker"></i>
+      <a href="">{{ sidebar.ubication }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.citizenship %}
     <li class="phone"><i class="fas fa-passport"></i>
