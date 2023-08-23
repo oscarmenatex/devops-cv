@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: oscarmenatex@gmail.com
     phone: +1 727 325 3450
-#    timezone: America/Cancun Timezone
+    timezone: America/Cancun Timezone
     ubication: Florida, USA
     citizenship: Cuban
     website: oscarmenatex.github.io/devops-cv #do not add http://
@@ -57,7 +57,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Computer Science Engineer
+      - degree: BSc in  Computer Science
         university: Universidad de las Ciencias Informáticas. La Habana - Cuba
         time: 2009 - 2016
         details: |
