@@ -83,7 +83,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Junior DevOps Engineer
+      - role: Junior DevOps
         time: 2021 - 2022
         company: UCI, La Habana, Cuba
         details: |
@@ -118,26 +118,20 @@ certifications:
       title: Certifications
       list:
         - name: Linux Essentials
-          start: 2020
+          start: 2021
           end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: lpi.org/v/LPI000508708/x5u744rc7
-          credentialname: Google
+          organization: Linux Profesional Institute
+          credentialid: LPI000508708
+          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
+          credentialname: LE-1 Linux Essentials
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Linux adoption continues to rise world-wide as individual users, government entities and industries ranging from automotive to space exploration embrace open source technologies. This expansion of open source in enterprise is redefining traditional Information and Communication Technology (ICT) job roles to require more Linux skills. Whether you’re starting your career in open source, or looking for advancement, independently verifying your skill set can help you stand out to hiring managers or your management team.
+            The Linux Essentials certificate also serves as a great introduction to the more complete and advanced Linux Professional certification track.
+            To receive the Linux Essentials certificate the candidate must:
+            - have an understanding of the Linux and open source industry and knowledge of the most popular open source Applications;
+            - understand the major components of the Linux operating system, and have the technical proficiency to work on the Linux command line; and
+            - have a basic understanding of security and administration related topics such as user/group management, working on the command line, and permissions.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
             
 projects:
     title: Projects
