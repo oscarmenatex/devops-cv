@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: oscarmenatex@gmail.com
     phone: +1 727 325 3450
-    timezone: America/New York
+    #timezone: America/New York
     ubication: Florida, USA
     citizenship: Cuban
     website: oscarmenatex.github.io/devops-cv #do not add http://
@@ -91,7 +91,16 @@ certifications:
           credentialid: LPI000508708
           credentialurl: lpi.org/v/LPI000508708/x5u744rc72
           credentialname: LE-1 Linux Essentials
-          details: |
+          details: 
+
+        - name: Certified Notary Public 
+          start: 2025
+          end: 2029
+          organization: Florida
+          #credentialid: LPI000508708
+          #credentialurl: lpi.org/v/LPI000508708/x5u744rc72
+          #credentialname: LE-1 Linux Essentials
+          details: 
             
 projects:
     title: Projects
