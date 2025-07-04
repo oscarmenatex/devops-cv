@@ -92,13 +92,6 @@ certifications:
           credentialurl: lpi.org/v/LPI000508708/x5u744rc72
           credentialname: LE-1 Linux Essentials
           details: |
-            Linux adoption continues to rise world-wide as individual users, government entities and industries ranging from automotive to space exploration embrace open source technologies. This expansion of open source in enterprise is redefining traditional Information and Communication Technology (ICT) job roles to require more Linux skills. Whether you’re starting your career in open source, or looking for advancement, independently verifying your skill set can help you stand out to hiring managers or your management team.
-            The Linux Essentials certificate also serves as a great introduction to the more complete and advanced Linux Professional certification track.
-            To receive the Linux Essentials certificate the candidate must:
-            - have an understanding of the Linux and open source industry and knowledge of the most popular open source Applications;
-            - understand the major components of the Linux operating system, and have the technical proficiency to work on the Linux command line; and
-            - have a basic understanding of security and administration related topics such as user/group management, working on the command line, and permissions.
-
             
 projects:
     title: Projects
