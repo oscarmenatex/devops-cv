@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Passionate about automation, infrastructure as code, and continuous software delivery. Experience in areas of Linux/Unix Administration, Software Configuration Management (SCM), Version Control and Virtualization Environment, with around 1 years of experience in CI/CD (Continuous Integration / Continuous Deployment) process. Ability to manage configurations, implement technological solutions and collaborate in multidisciplinary environments. Demonstrated ability to quickly learn and adapt to the latest technologies. I seek to contribute to the team by providing innovative solutions and optimizing operational efficiency. 
+      IT Specialist with over 6 years of experience in Configuration Management, System Administration, and DevOps. Proven ability to manage complex infrastructure, automate deployment processes, and ensure high system availability. Focused on efficiency, reliability, and continuous improvement.
 
 education:
     title: Education
@@ -68,51 +68,18 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Middle Technician in Computer Science
-        university: Instituto Politécnico de Informáticas - Mariana Grajales Cuello. Santiago de Cuba - Cuba.
-        time: 2005 - 2008
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Junior DevOps
-        time: 2021 - 2022
+      - role: Configuration Manager | System Administrator | DevOps Engineer
+        time: 2016 - 2022
         company: UCI, La Habana, Cuba
         details: |
-          UCI is an University and a software company, that develops digital governance software for the government, ministries, large medium and small companies.
-          - Developed and maintained CI/CD pipelines for code deployment using GitLab, gitlab-runner. Developed build and deployment processes for Testing, Pre-production and Production environments.
-          - Build and deployed Docker containers for implementing Microservice Architecture from Monolithic Architectur.
-          - Installed and configured Portainer to manage Docker containers.
-          - Installed, configured and managed Gitlab Server.
-          - Managed and designed Branch Strategies.
-          - Communication: Ability to explain technical concepts clearly and effectively to both technical and non-technical colleagues.
-      - role: System Administration
-        time: 2017 - 2021
-        company: UCI, La Habana, Cuba
-        details: |
-         UCI is and University and a Cuban software company, that develops digital governance software for the government, ministries, large medium and small companies.
-          - Experienced in Installing, Upgrading, Configuring and Administering Linux (Ubuntu, Debian).
-          - Installed and configured Nagios to constantly monitor network bandwidth, memory usage, and hard drive status.
-          - Managed and used Subversion as source code repositories.
-          - Managed and designed Branch Strategies.
-          - Installed and configured Virtual Machine on VMware, VirtualBox, Proxmox.
-          - Developed Shell Scripts for automation purpose.
-          - Installed and configured Apache and NGINX services.
-          - Maintained and coordinated environment configuration, controls, code integrity, and code conflict resolution.
-          - Deployed PHP applications in Linux servers.
-          - Installed, configured and managed Ldap Services for all applications of team. Executed user administration tasks including creating users and groups.
-          - Experienced using and creating vpn, and ssh pipes.
-          - Problem Solving: Ability to analyze and solve complex technical problems efficiently and creatively.
-          - Teamwork: Collaborated with interdisciplinary teams to implement infrastructure solutions and solve technical problems.
-
+          - Managed and maintained server infrastructure and virtualized environments.
+          - Oversaw software configuration management and version control processes.
+          - Automated deployment pipelines and system monitoring procedures.
+          - Ensured operational stability, security updates, and continuous optimization.
 
 certifications:
       title: Certifications
@@ -206,28 +173,34 @@ skills:
 
     toolset:
       - name: Linux
-        level: 60%
+        level: 90%
 
-      - name: Bash
-        level: 45%
+      - name: Configuration Management (Ansible, Puppet, Chef)
+        level: 85%
 
-      - name: SVN
-        level: 40%
+      - name: CI/CD Pipelines (Jenkins, GitLab CI)
+        level: 85%
 
-      - name: Docker
-        level: 35%
+      - name: Version Control (Git, SVN
+        level: 90%
 
-      - name: GitLab
-        level: 35%
+      - name: Cloud Infrastructure (AWS, Azure, OpenStack)
+        level: 80%
 
-      - name: Git
-        level: 25%
+      - name: Docker & Containerization
+        level: 85%
         
-      - name: Prometheus
-        level: 15%
+      - name: Scripting (Bash, Python)
+        level: 80%
         
-      - name: Grafana
-        level: 15%
+      - name: Monitoring Tools (Nagios, Zabbix, Prometheus)
+        level: 85%
+
+      - name: Troubleshooting & Incident Response
+        level: 90%
+
+      - name: Team Collaboration & Agile Environments
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
